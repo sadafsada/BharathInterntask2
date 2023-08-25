@@ -1,0 +1,142 @@
+.main{ 
+    display: flex;
+    flex-wrap: wrap;
+    
+    margin: 1px auto; 
+    
+    position: relative; 
+    background-color: black;
+}
+.rose{
+    
+    position: relative;
+    display: flex;
+    color: transparent;
+    margin: 2px auto;
+    flex-wrap:wrap;
+    background-color: black;
+}
+.card{
+    width: 1450px;
+    height:250px;
+    border:2px solid black;
+    border-radius: 10px;
+    margin: 2px;
+    display: flex;
+    padding: 5px;
+    gap: 10px;
+
+}
+.card-img{
+    width:100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.card1{
+    width: 1450px;
+    height:250px;
+    border:2px solid black;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 5px;
+    display: flex;
+    gap: 10px;
+}
+.card1-img{
+    width:100%;
+    border-radius: 10px;
+    height:100%
+}
+
+.card2{
+    width: 1450px;
+    height:250px;
+    border:2px solid black;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 5px;
+    display: flex;
+    gap: 10px;
+}
+.card2-img{
+    width:100%;
+    border-radius: 10px;
+    height:100%
+}
+.card3{
+    width: 1450px;
+    height:250px;
+    border:2px solid black;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 5px;
+    display: flex;
+    gap: 10px;
+}
+.card3-img{
+    width:100%;
+    border-radius: 10px;
+    height:100%
+}
+.card4{
+    width: 1450px;
+    height:250px;
+    border:2px solid black;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 5px;
+    display: flex;
+    gap: 10px;
+}
+.card4-img{
+    width:100%;
+    border-radius: 10px;
+    height:100%
+}
+
+.red{
+    color: white;
+    position: absolute;
+    bottom: 50%;
+    width:100% ;
+    text-align: center;
+}
+.done{
+    position: relative;
+}
+.hero1{
+    padding: 10px 60px;
+    align-items: center; 
+    background-color: rgb(187, 24, 24);
+    border: none;
+    color: white;
+    font-size: 15px;
+}
+.hero2{
+    padding: 10px 160px;
+    align-items: center;
+} 
+.abc{
+   position: absolute;
+   right:2%;
+   margin-top: 15px; 
+}
+.abd{
+    background-color: black;
+    color: white;
+    border: 2px;
+    border-color: white;
+    padding: 4px 10px;
+}
+.def{
+    color: white; 
+    background-color: red;
+    padding: 4px 10px;
+    border: none;
+}
+.logo{
+    position: absolute;
+    margin: 10px;
+    height: 50px;
+    width: 150px;
+}
